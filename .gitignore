@@ -7,3 +7,8 @@ Lab05/salami
 Lab06/Data*
 *.zip
 test-spleeter
+Lab07/*.txt
+Lab07/*.zip
+Lab07/*.tsv
+Lab07/*.csv
+Lab07/*.tar.gz
